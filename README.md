@@ -1,5 +1,7 @@
 # **BANDA DE MARIACHIS**
 
+![img](static/portada.jpg)
+
 - [**BANDA DE MARIACHIS**](#banda-de-mariachis)
   - [**INTEGRANTES**](#integrantes)
   - [**¿CÓMO EJECUTAR?**](#cómo-ejecutar)
@@ -298,8 +300,7 @@ def play():
 
 Esta linea de código nos permite ver los cambios en tiempo real en nuestro servidor.
 
-````python
+```python
 if __name__ == "__main__":
     app.run(debug=True)
 ```
-````
